@@ -7,7 +7,7 @@
 * 🎨 Use Prettier on entire codebase
 * ⬆️ ABL-LS 1.24.0-SNAPSHOT
 * ⬆️ CABL 3.7.0-SNAPSHOT
-* ⬆️ TextMate Grammar 1.3.23
+* ⬆️ TextMate Grammar 1.3.24
 * ⬆️ Java 21.0.10+7
 * 🚀 Deploy pre-releases to Open VSX
 
